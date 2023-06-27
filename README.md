@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://gitee.com/callmy/finalShellCrack/raw/master/material/FinalShell.png" alt="Clash" width="260">
+  <img src="https://s1.ax1x.com/2023/06/16/pCMMFXD.png" alt="Clash" width="260">
   <br>FinalShell 破解版<br>
 </h1>
 
@@ -49,15 +49,15 @@ FinalShell是一体化的的服务器, 网络管理软件, 不仅是SSH客户端
 
 ## 主界面
 
-<img style="width:100%" src="https://gitee.com/callmy/finalShellCrack/raw/master/material/Screenshot/1.png">
+<img style="width:100%" src="https://s1.ax1x.com/2023/06/16/pCMMpfx.png">
 
 ## Shell界面 & 专业版功能 -> 打包压缩下载以及上传
 
-<img style="width:100%" src="https://gitee.com/callmy/finalShellCrack/raw/master/material/Screenshot/2.png">
+<img style="width:100%" src="https://s1.ax1x.com/2023/06/16/pCMME0H.png">
 
 ## 进程列表详情 & 专业版功能 -> 进程管理器
 
-<img style="width:100%" src="https://gitee.com/callmy/finalShellCrack/raw/master/material/Screenshot/3.png">
+<img style="width:100%" src="https://s1.ax1x.com/2023/06/16/pCMMCp6.png">
 
 ## 省略:
 * 网络列表详情 & 专业版功能 -> 网络管理器或监控
