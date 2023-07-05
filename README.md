@@ -11,7 +11,7 @@ FinalShell是一体化的的服务器, 网络管理软件, 不仅是SSH客户端
 <p align="center">
   [Telegram:<a target="_blank" href="https://t.me/tgcallmy">@tgcallmy</a>]
   [QQ群:<a target="_blank" href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=xQzWCdVrMNNBo52yG1yzdEmMIa-BzdJ5&authKey=B%2B%2Bu8m320U62XJK%2BYYRAVFdz153beMBKb829HltWGKyXjYJWbEONz9dDzTW8HJzj&noverify=0&group_code=591311911">591311911</a>]
-  [版本:4.0]
+  [版本:4.0.1]
   [修补:<a target="_blank" href='http://callmy.cn/'>@魔影网络</a>]<br>
   [★下载★:<a target="_blank" href="https://bbs.callmy.cn/thread-1-1-1.html">★FinalShell <strong align="center" color="red" style="font-size:20px;font-weight:1000;color:red;">4.0</strong> 专业版★</a>]
 </p>
