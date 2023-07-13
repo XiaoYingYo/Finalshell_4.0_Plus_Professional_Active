@@ -14,6 +14,7 @@ FinalShell是一体化的的服务器, 网络管理软件, 不仅是SSH客户端
   [版本:4.2]
   [修补:<a target="_blank" href='http://callmy.cn/'>@魔影网络</a>]<br>
   [★下载★:<a target="_blank" href="https://finalshell.callmy.cn/">★FinalShell <strong align="center" color="red" style="font-size:20px;font-weight:1000;color:red;">4.2</strong> 专业版★</a>]
+  [★获取★:<a style="color:blue;font-size:20px;" target="_blank" href="//FinalShellCode.callmy.cn">★离线激活码★</a>]
 </p>
 
 # 修补内容
@@ -65,10 +66,12 @@ FinalShell是一体化的的服务器, 网络管理软件, 不仅是SSH客户端
 * 路由列表详情 & 专业版功能 -> 路由管理器或监控
 
 # 更新日志
+2023-7-13 版本号 4.2 -> 4.0
+
 2023.7.12 版本号4.2
-运行环境升级为java17
-使用新的界面组件
-修复多个问题
+* 运行环境升级为java17
+* 使用新的界面组件
+* 修复多个问题
 
 2023.6.9 版本号4.0
 * 连接管理器支持复制，剪切，粘贴
