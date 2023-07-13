@@ -21,6 +21,7 @@ FinalShell是一体化的的服务器, 网络管理软件, 不仅是SSH客户端
 
 * 解锁专业版
 * <strong align="center" color="red" style="font-size:20px;font-weight:1000;color:red;">本版本不需要登录和注册</strong>
+* <strong align="center" color="red" style="font-size:20px;font-weight:1000;color:red;">Ps:本版本不支持云同步以及其他云功能</strong>
 
 # 特征
 
