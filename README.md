@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://s1.ax1x.com/2023/06/16/pCMMFXD.png" alt="Clash" width="260">
-  <br>FinalShell 专业版<br>
+  <br>FinalShell 专业版 & 离线激活<br>
 </h1>
 
 <h4 align="center" color="red" style="font-size:20px; font-weight:1000; color:red;"><strong>本次发布的内容仅供学习研究使用, 您必须在下载后的24个小时之内<br>从您的电脑中彻底删除上述内容。访问和下载本内容，说明您已同意上述条款</strong></h4>
