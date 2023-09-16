@@ -66,4 +66,4 @@ FinalShell是一体化的的服务器, 网络管理软件, 不仅是SSH客户端
 * 网络列表详情 & 专业版功能 -> 网络管理器或监控
 * 路由列表详情 & 专业版功能 -> 路由管理器或监控
 
-# 官方 <a target="_blank" href="http://www.hostbuf.com/t/988.html">www.hostbuf.com</a> 的更新日志
+# 官方 →<a target="_blank" href="http://www.hostbuf.com/t/988.html">www.hostbuf.com</a> 的更新日志
